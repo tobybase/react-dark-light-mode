@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-dark-light-mode/static/js/main.fd25930b.chunk.js",
+    "main.js.map": "/react-dark-light-mode/static/js/main.fd25930b.chunk.js.map",
+    "runtime-main.js": "/react-dark-light-mode/static/js/runtime-main.4178c870.js",
+    "runtime-main.js.map": "/react-dark-light-mode/static/js/runtime-main.4178c870.js.map",
+    "static/js/2.8b58bce4.chunk.js": "/react-dark-light-mode/static/js/2.8b58bce4.chunk.js",
+    "static/js/2.8b58bce4.chunk.js.map": "/react-dark-light-mode/static/js/2.8b58bce4.chunk.js.map",
+    "index.html": "/react-dark-light-mode/index.html",
+    "static/js/2.8b58bce4.chunk.js.LICENSE.txt": "/react-dark-light-mode/static/js/2.8b58bce4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4178c870.js",
+    "static/js/2.8b58bce4.chunk.js",
+    "static/js/main.fd25930b.chunk.js"
+  ]
+}
